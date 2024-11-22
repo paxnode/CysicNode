@@ -20,7 +20,7 @@ Steps to Set Up the Cysic Node
 
 2. Submit Code and Register
 - Submit any of the following codes to the dashboard:
-  `9e07c | 24171 | df202 | 5bc76 | 0d611 | bc8ea | 26236`
+  `N/A | N/A | N/A | N/A | N/A | N/A | N/A`
 - Register your account and submit your details.
 
 3. Run the Verifier Node
