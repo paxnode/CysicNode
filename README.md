@@ -1,31 +1,31 @@
 ```markdown
-# CysicNode
+CysicNode
 
 This repository contains instructions and scripts for setting up the Cysic Phase II: Genesis Node Verifier.
 
 ---
 
-## Requirements
+Requirements
 1. A Linux-based system.
 2. A valid reward address (starts with `0x`).
 3. Basic knowledge of Linux terminal commands.
 
 ---
 
-## Steps to Set Up the Cysic Node
+Steps to Set Up the Cysic Node
 
-### 1. Connect to the Testnet
+1. Connect to the Testnet
 - Go to: [Cysic Testnet Dashboard](https://testnet.cysic.xyz/m/)
 - Connect your wallet.
 
-### 2. Submit Code and Register
+2. Submit Code and Register
 - Submit any of the following codes to the dashboard:
   `9e07c | 24171 | df202 | 5bc76 | 0d611 | bc8ea | 26236`
 - Register your account and submit your details.
 
-### 3. Run the Verifier Node
+3. Run the Verifier Node
 
-#### **Run the setup script**
+Run the setup script
 - Replace `0x-Fill-in-your-reward-address-here` with your wallet's reward address.
 - Run the following commands:
   ```bash
